@@ -1,0 +1,10 @@
+pgx>=2.0.0
+dm-haiku
+mctx
+optax
+wandb
+omegaconf
+pydantic
+imageio
+cairosvg
+imageio[ffmpeg]
